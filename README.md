@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stutirastogi
-- 👀 I’m interested in problem solving, machine learning and python development
-- 🌱 I’m currently learning data structures and algorithms and web develpment
+- 👀 I’m interested in problem solving anf full stack web development
+- 🌱 I’m currently learning Reactjs, Node js, Express js ,...
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
